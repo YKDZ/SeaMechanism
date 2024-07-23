@@ -1,0 +1,4 @@
+name: SeaMechanism
+version: '${version}'
+main: cn.encmys.ykdz.forest.seamechanism.SeaMechanism
+api-version: '1.21'
